@@ -1,0 +1,19 @@
+h2{ 
+	color: darkgreen; }
+	p{color: skyblue;}
+	h3{ color:floralwhite; }
+li{color: indianred;}
+body{background-color: black;
+}
+tr{color: royalblue;}
+		th{color: royalblue;}
+div{background-color: floralwhite;
+width: 200px;height: 200px}
+
+#one{ color: orange; 
+	text-decoration: underline;
+}
+#two{background-color:  white;
+width: 200px;height: 400px}
+
+
